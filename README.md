@@ -1,8 +1,7 @@
 ### Hi there 👋
 ## Github Performance Overall
 
-Inline-style: 
-![github stats](https://github-readme-stats.vercel.app/api?username=daniellumbantobing@show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=daniellumbantobing&show_icons=true)
 <!--
 **daniellumbantobing/daniellumbantobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
