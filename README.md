@@ -2,7 +2,7 @@
 ## Github Performance Overall
 
 ![github stats height="180em"](https://github-readme-stats.vercel.app/api?username=daniellumbantobing&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellumbantobing&layout=compact&theme=tokyonight)
+![Top Langs height="180em"](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellumbantobing&layout=compact&theme=tokyonight)
 <!--
 **daniellumbantobing/daniellumbantobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
