@@ -3,7 +3,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=daniellumbantobing&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellumbantobing&theme=vue")
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellumbantobing&layout=compact&theme=tokyonight">
 <!--
 **daniellumbantobing/daniellumbantobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
