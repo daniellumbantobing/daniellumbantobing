@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/daniellumbantobing">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellumbantobing&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellumbantobing&layout=compact&langs_count=all&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellumbantobing&layout=compact&langs_count=10&theme=tokyonight">
 </a>
 </p>
 <!--
